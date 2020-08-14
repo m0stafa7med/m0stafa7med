@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
-<h3 align="center">A software engineer seeking to know everything </h3>
+<h3 align="center">A software engineer's seeking to know everything </h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa7med" alt="mostafa7med" /> </p>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
-- 📫 How to reach me **mostafadarwesh610@gmail.com**
+- 📫 How to reach me: mostafadarwesh610@gmail.com
 
 <p align="left">
 <h3> Languages I use

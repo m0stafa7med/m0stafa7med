@@ -27,6 +27,10 @@
 </p>
 
 <p align="center">
+    <img alt="contribution snake" width="85%" src="https://github.com/m0stafa7med/m0stafa7med/blob/output/github-snake.svg" />
+</p>
+
+<p align="center">
 <h3>Follow me:
 <br>
 <a href="https://www.linkedin.com/in/mustafa-darwish-b10468170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
@@ -35,3 +39,10 @@
 <a href="https://www.facebook.com/m0stafa.a7med" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
 
 </p>
+
+
+<!-- Social media links -->
+### Connect with me:
+[![linkedin profile](img/linkedin2.svg "@mustafa-darwish")](https://www.linkedin.com/in/mustafa-darwish-b10468170)
+[![Twitter handel: @m0stafa_a7med](img/twitter2.svg "@m0stafa_a7med")](https://twitter.com/m0stafa_a7med)
+[![facebook profile: @tarekbadrsh](img/facebook.svg "@m0stafa.a7med")](https://www.facebook.com/m0stafa.a7med)

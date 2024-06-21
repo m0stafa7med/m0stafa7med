@@ -12,7 +12,6 @@
 <br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
 <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="js" width="40" height="40"/> 
 </p>
 <p align="left">
 <h3> Some of the technologies I have worked with
@@ -29,7 +28,7 @@
 <p align="center">
 <h3>Follow me:
 <br>
-<a href="https://www.linkedin.com/in/mustafa-darwish-b10468170/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
+<a href="https://www.linkedin.com/in/mostafa-darwesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
 <a href="https://twitter.com/m0stafa_a7med" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
 <a href="https://www.hackerrank.com/mostafa_ahmed101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
 <a href="https://www.facebook.com/m0stafa.a7med" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mostafa-ahmed" height="30" width="30" /></a>

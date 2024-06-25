@@ -8,7 +8,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020.<br>📚 Currently learning database.<br>🎯 Goals: Strive to build projects that resemble artistic paintings.<br>🎲 Fun fact:In my free time, I enjoy reading about
+<p align="left">✨ Creating bugs since 2020.<br>📚 Currently learning database.<br>🎯 Goals: Strive to build projects that resemble artistic paintings.<br>🎲 Fun fact: In my free time, I enjoy reading about
 economics</p>
 
 ###

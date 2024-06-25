@@ -1,36 +1,61 @@
-<h1 align="center">Hi 👋, I'm Mostafa Ahmed</h1>
-<h3 align="center">A software engineer seeking to know everything </h3>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mostafa7med" alt="mostafa7med" /> </p>
+<h1 align="center">Hi 👋, I'm Mostafa Darwesh from Egypt 𓂀</h1>
+<h3 align="center">A software engineer seeking to learn more </h3>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 
-- 📫 How to reach me **mostafadarwesh610@gmail.com**
 
+<h2 align="left">About me</h2>
 
-<p align="left">
-<h3> Languages I use
-<br>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="c++" width="40" height="40"/> 
+###
+
+<p align="left">✨ Creating bugs since 2020.<br>📚 Currently learning database.<br>🎯 Goals: Strive to build projects that resemble artistic paintings.<br>🎲 Fun fact:In my free time, I enjoy reading about
+economics</p>
+
+###
+
+<h2 align="left">I am dealing with</h2>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+</div>
+
+###
+
 </p>
-<p align="left">
-<h3> Some of the technologies I have worked with
- <br> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="jenkins" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="AWS" width="40" height="40"/> 
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongoDB" width="40" height="40"/> 
 
-</p>
 
-<p align="center">
-<h3>Follow me:
-<br>
-<a href="https://www.linkedin.com/in/mostafa-darwesh/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
-<a href="https://twitter.com/m0stafa_a7med" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
-<a href="https://www.hackerrank.com/mostafa_ahmed101" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
-<a href="https://www.facebook.com/m0stafa.a7med" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="mostafa-ahmed" height="30" width="30" /></a>
+<h2 align="left">Contact me</h2>
 
-</p>
+ 
+###
+ 
+<div align="left">
+  <a href="mailto:mostafadarwesh1998@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Gmail" />
+  </a>
+  <a href="https://www.linkedin.com/in/mostafa-darwesh/">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
+  </a>
+</div>
+
+

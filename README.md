@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mostafa Darwesh from Egypt 𓂀</h1>
-<h3 align="center">A software engineer seeking to learn more </h3>
+<h3 align="center">A software engineer seeking to learn more.</h3>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 
 
@@ -9,7 +9,7 @@
 ###
 
 <p align="left">✨ Creating bugs since 2020.<br>📚 Currently learning database.<br>🎯 Goals: Strive to build projects that resemble artistic paintings.<br>🎲 Fun fact: In my free time, I enjoy reading about
-economics</p>
+economics.</p>
 
 ###
 
@@ -36,7 +36,7 @@ economics</p>
   <img width="12" />
   <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jenkins/jenkins-line.svg" height="40" alt="jenkins logo"  />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
 </div>
 
 ###
@@ -57,5 +57,7 @@ economics</p>
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="LinkedIn" />
   </a>
 </div>
+
+
 
 

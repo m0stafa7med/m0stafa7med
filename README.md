@@ -1,4 +1,8 @@
-<h1 align="center">Hi 👋, I'm Mostafa Darwesh from Egypt 𓂀</h1>
+
+
+<h1 align="center">Hi 👋, I'm Mostafa Darwesh from Egypt 𓂀
+  <img src='https://github.com/yammadev/flag-icons/blob/master/png/EG%402x.png' width='21' height='15'>
+</h1>
 <h3 align="center">A software engineer seeking to learn more.</h3>
 <img align='right' src='https://github.com/Rishit-dagli/Rishit-dagli/blob/master/images/octocat-anime.gif' width='150"'>
 

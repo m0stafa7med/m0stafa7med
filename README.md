@@ -44,9 +44,9 @@ economics.</p>
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo"  />
   <img width="12" />
-  <img src="https://cdn.simpleicons.org/graphql/E10098" height="40" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
 </div>
 
 ###

@@ -25,31 +25,31 @@
 ###
 
 <div align="left">
-  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"  />
+  <img src="https://skillicons.dev/icons?i=java" height="40" alt="java logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"  />
+  <img src="https://skillicons.dev/icons?i=go" height="40" alt="go logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"  />
+  <img src="https://skillicons.dev/icons?i=spring" height="40" alt="spring logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"  />
+  <img src="https://skillicons.dev/icons?i=postgres" height="40" alt="postgres logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"  />
+  <img src="https://skillicons.dev/icons?i=hibernate" height="40" alt="hibernate logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"  />
+  <img src="https://skillicons.dev/icons?i=docker" height="40" alt="docker logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"  />
+  <img src="https://skillicons.dev/icons?i=kafka" height="40" alt="apachekafka logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"  />
+  <img src="https://skillicons.dev/icons?i=redis" height="40" alt="redis logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"  />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="aws logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo"  />
+  <img src="https://skillicons.dev/icons?i=elasticsearch" height="40" alt="elasticsearch logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"  />
+  <img src="https://skillicons.dev/icons?i=graphql" height="40" alt="graphql logo"/>
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"  />
+  <img src="https://skillicons.dev/icons?i=gitlab" height="40" alt="gitlab logo"/>
 </div>
 
 ###
